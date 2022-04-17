@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Auckland</name>
+   <tag></tag>
+   <elementGuidId>6e89668e-3a73-4259-98cc-3d60aac25101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_main']/div[5]/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.options.open > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>144e5c10-a11d-4da0-b07c-2e9ce7250623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-raw-value</name>
+      <type>Main</type>
+      <value>AKL</value>
+      <webElementGuid>a5bef9a6-a4d8-4065-baa4-1c5c9d9eadd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Auckland</value>
+      <webElementGuid>ddb46d7f-6c72-435c-8219-77d8ffb5874c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_main&quot;)/div[@class=&quot;[ formGroup odd pickLoc ] fancySelectOpen&quot;]/div[@class=&quot;[ formLabel ]&quot;]/div[@class=&quot;fancy-select&quot;]/ul[@class=&quot;options open&quot;]/li[1]</value>
+      <webElementGuid>5613cb41-9f5f-4e4b-94ee-1adf417908e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_main']/div[5]/div/div/ul/li</value>
+      <webElementGuid>b4458fde-9e51-4294-acbc-8f67f5c40dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick Up Location'])[3]/following::li[1]</value>
+      <webElementGuid>07f9d2c9-25e5-4559-951f-7c00e9069896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick Up Location'])[1]/following::li[1]</value>
+      <webElementGuid>7130bba3-948f-4ad1-b83a-bfcda38eab88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Christchurch'])[2]/preceding::li[1]</value>
+      <webElementGuid>399d8b63-7668-46ac-b0d8-31e0e1817443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Queenstown'])[2]/preceding::li[2]</value>
+      <webElementGuid>533772db-def2-4f33-a691-a3615d52f220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/ul/li</value>
+      <webElementGuid>75d51bd7-872f-4b88-8a2a-f9f2a767ebaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Auckland' or . = 'Auckland')]</value>
+      <webElementGuid>e9cb602a-1c9d-4cc2-8bdc-09abbf89409b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

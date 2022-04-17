@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pick Up Location</name>
+   <tag></tag>
+   <elementGuidId>41f7c3bd-f648-42cf-b099-cce218b582a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_main']/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16d27a6e-1c70-41fc-9269-022159bc71ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trigger</value>
+      <webElementGuid>3b82d3fc-0da3-49fd-a241-0e2d6e0dbc99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pick Up Location</value>
+      <webElementGuid>bfaacd81-7fd0-4fca-9148-4a4d4d3fef4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_main&quot;)/div[@class=&quot;[ formGroup odd pickLoc ]&quot;]/div[@class=&quot;[ formLabel ]&quot;]/div[@class=&quot;fancy-select&quot;]/div[@class=&quot;trigger&quot;]</value>
+      <webElementGuid>36699d52-6a9c-4eb2-88f5-3aa2936e99ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_main']/div[5]/div/div/div</value>
+      <webElementGuid>1ba6f0f8-4306-4a9c-bce2-80fba7543f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick Up Location'])[1]/following::div[2]</value>
+      <webElementGuid>230721e9-b850-492a-adad-061c87b6c93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/following::div[4]</value>
+      <webElementGuid>4b04a3da-784a-45c4-8f7f-18cdc900964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auckland'])[2]/preceding::div[1]</value>
+      <webElementGuid>7b267a05-6c52-465e-be30-c7c2cf42544c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Christchurch'])[2]/preceding::div[1]</value>
+      <webElementGuid>46bf9298-d610-4807-aa63-66410f916c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div/div/div</value>
+      <webElementGuid>d48be8fd-2b1b-4cae-a29b-07095368566e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pick Up Location' or . = 'Pick Up Location')]</value>
+      <webElementGuid>73404607-235b-463c-a579-60aada8244da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

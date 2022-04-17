@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_We are Australasias leader in self-drive_027561</name>
+   <tag></tag>
+   <elementGuidId>0d71c06d-0cc2-4e0b-88b4-4a90422ef701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/main/div/div/header/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>017c198e-b278-4178-a9cd-fc5be1a6bc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We are Australasia's leader in self-drive rentals, choose a country &amp; start your journey</value>
+      <webElementGuid>75f57550-8207-48f4-93dd-6d3ec45a8b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/main[1]/div[@class=&quot;[ contentBlock level1 ][ columns_1 ][ col1TypeRollup ][ rollupDisplay_gateways ]&quot;]/div[@class=&quot;[ gutterPrimary cbHeadingType_centered ]&quot;]/header[@class=&quot;[ cbHeading ]&quot;]/h4[1]</value>
+      <webElementGuid>ab3e8fdb-c73f-4db6-ba90-87eef3c44b3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/main/div/div/header/h4</value>
+      <webElementGuid>2c550a11-9e51-48a4-8315-97974efdbb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all International numbers'])[2]/following::h4[1]</value>
+      <webElementGuid>82c76c93-3e89-49f9-8152-369b96a8f2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book'])[2]/following::h4[1]</value>
+      <webElementGuid>efa3226f-d5f5-4838-a5f8-311e490a15db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Australia'])[5]/preceding::h4[1]</value>
+      <webElementGuid>e742541f-1fc4-4351-9b19-d945010acfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Australia in a Britz'])[1]/preceding::h4[1]</value>
+      <webElementGuid>d5812765-a060-4e8e-8188-e0a789400dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>800349ea-eb55-4e08-86d1-10e8885bb791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = concat(&quot;We are Australasia&quot; , &quot;'&quot; , &quot;s leader in self-drive rentals, choose a country &amp; start your journey&quot;) or . = concat(&quot;We are Australasia&quot; , &quot;'&quot; , &quot;s leader in self-drive rentals, choose a country &amp; start your journey&quot;))]</value>
+      <webElementGuid>3959ac9c-0da2-4268-9e73-7e4c8195c476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

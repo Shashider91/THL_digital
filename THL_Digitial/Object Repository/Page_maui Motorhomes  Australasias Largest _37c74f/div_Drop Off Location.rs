@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drop Off Location</name>
+   <tag></tag>
+   <elementGuidId>324ea1ed-a534-4d5b-aab2-9398a012b355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_main']/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a796c114-12cb-4e7f-87ec-839eb78847a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trigger</value>
+      <webElementGuid>3d326c5c-002c-464f-8eb7-8e5d08fb4234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drop Off Location</value>
+      <webElementGuid>c8a58f54-8f1b-4f21-aa0a-3baffae4b8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_main&quot;)/div[@class=&quot;[ formGroup even dropLoc ]&quot;]/div[@class=&quot;[ formLabel ]&quot;]/div[@class=&quot;fancy-select&quot;]/div[@class=&quot;trigger&quot;]</value>
+      <webElementGuid>2994ae7f-02b5-4a9a-83b7-571c5736929e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_main']/div[6]/div/div/div</value>
+      <webElementGuid>c04d64ee-c284-498e-91b0-de3ee10db9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop Off Location'])[1]/following::div[2]</value>
+      <webElementGuid>ad46e5e8-28fc-4b95-bf8b-03b7911cc2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick Up Location is required*'])[1]/following::div[4]</value>
+      <webElementGuid>9a0a32fa-6a7c-4a41-87f2-84e3841c39d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auckland'])[5]/preceding::div[1]</value>
+      <webElementGuid>10b18fef-0041-4235-a4c4-2eb0b675296f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Christchurch'])[4]/preceding::div[1]</value>
+      <webElementGuid>37320dc8-5918-48f7-95a6-3d0babb623b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[6]/div/div/div</value>
+      <webElementGuid>52c267dd-9db0-4af7-b756-b7382d61d42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drop Off Location' or . = 'Drop Off Location')]</value>
+      <webElementGuid>a0f079b0-5a21-4de3-becd-6db7ce2ba258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 Results</name>
+   <tag></tag>
+   <elementGuidId>159ff9f8-caa2-4bde-8af8-fb5d2886771a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rootPrimary']/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>803d02e7-05b1-42a2-9cbd-058a2a494c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>.0.$=10.0.1.0.0.1.1.$search-result.0.$ResultsGroup.$flexBlock-2022-04-30.1:$M.0.2.1.0</value>
+      <webElementGuid>849c3180-20e7-498b-8aa8-5785e847f698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 Results</value>
+      <webElementGuid>e1dd0216-6996-4a06-ba7d-242be346c421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rootPrimary&quot;)/div[1]/div[@class=&quot;container-fluid thl-main-container&quot;]/div[@class=&quot;row main-bg&quot;]/div[1]/div[@class=&quot;col-xs-12 col-lg-9 col-lg-offset-3 col-xl-10 col-xl-offset-2 thl-search-container&quot;]/div[2]/div[@class=&quot;row thl-content-container&quot;]/div[@class=&quot;col-sm-12 thl-search-results-container&quot;]/div[1]/div[@class=&quot;row sub-section&quot;]/div[@class=&quot;col-xs-12 sub-section&quot;]/div[@class=&quot;row thl-sub-section-heading-brand&quot;]/span[1]/span[2]/span[1]</value>
+      <webElementGuid>5b9bc068-d8bc-4989-b341-30fcd0e217ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rootPrimary']/div/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div/span/span[2]/span</value>
+      <webElementGuid>a7989337-febe-4cf9-b5bd-b1a1f656ffd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW SEARCH'])[4]/following::span[6]</value>
+      <webElementGuid>c0eaf392-69c3-408e-a188-d8ec054a62ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[12]/following::span[7]</value>
+      <webElementGuid>8550d321-9725-44f0-932d-6dd925e0109c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultima - 2 Berth'])[1]/preceding::span[2]</value>
+      <webElementGuid>6c3d3aa8-65ee-434d-b502-aec4c0328875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automatic130L Fridge/FreezerToilet and ShowerGas Stove'])[1]/preceding::span[2]</value>
+      <webElementGuid>0ed6ae26-07b9-49f9-8a73-5d69d04a8ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 Results']/parent::*</value>
+      <webElementGuid>6ce70805-0703-4b0d-a054-5a6fb7e96a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]/span</value>
+      <webElementGuid>9c65ceaa-0d8f-4d30-a898-fb936704b7f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2 Results' or . = '2 Results')]</value>
+      <webElementGuid>f5068d24-75fb-4ac4-98e3-c491495581dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

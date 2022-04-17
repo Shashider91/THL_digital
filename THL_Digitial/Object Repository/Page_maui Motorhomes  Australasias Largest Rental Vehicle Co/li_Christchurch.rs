@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Christchurch</name>
+   <tag></tag>
+   <elementGuidId>be372b3f-29b3-4609-9600-17bdcef455f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_main']/div[6]/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3ec152d0-618e-4095-ac9d-15e67b2ed488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-raw-value</name>
+      <type>Main</type>
+      <value>CHC</value>
+      <webElementGuid>21f38423-4e89-452b-9cda-e0a67036863e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Christchurch</value>
+      <webElementGuid>09c7876c-3428-4f98-9241-20c3a84f2ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_main&quot;)/div[@class=&quot;[ formGroup even dropLoc ] fancySelectOpen&quot;]/div[@class=&quot;[ formLabel ]&quot;]/div[@class=&quot;fancy-select&quot;]/ul[@class=&quot;options open&quot;]/li[2]</value>
+      <webElementGuid>9348e60a-56a6-4e5b-b829-1d3128ff25b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_main']/div[6]/div/div/ul/li[2]</value>
+      <webElementGuid>41f23965-e714-4175-bc25-9c042394a424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auckland'])[4]/following::li[1]</value>
+      <webElementGuid>3b8c3d1a-43d8-4ce8-9223-72ebb7a3158f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop Off Location'])[3]/following::li[2]</value>
+      <webElementGuid>f97a6700-08bb-40b9-8366-7805c3aa86fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Queenstown'])[4]/preceding::li[1]</value>
+      <webElementGuid>e1944e26-2caa-4e3a-9b3d-c26ca63c21cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop Off Location is required*'])[1]/preceding::li[2]</value>
+      <webElementGuid>7e1319fa-cf30-455f-95b5-017e05bc1aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/ul/li[2]</value>
+      <webElementGuid>c79282c0-6d38-4f20-b1fa-498303f1a095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Christchurch' or . = 'Christchurch')]</value>
+      <webElementGuid>effa96c7-c5a8-4eef-91c3-ae8cfdbbe68f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
